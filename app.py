@@ -506,7 +506,8 @@ TEMPLATE = r"""
                             </a>
                         </p>
                         <p>{{ c.contact_phone_label }} :
-                            <span class="text-stone-800">+41 78 347 92 45 </span> </p>
+                            <span class="text-stone-800">+41 78 847 59 52 </span> </p>
+                        <p>{{ c.contact_phone_label }} :
                             <span class="text-stone-800">+41 78 347 92 45 </span>
                         </p>
                     </div>
